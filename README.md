@@ -42,5 +42,4 @@ The project displays interactive food cards with hover animations and a button t
 -to run the project:
 use: npm run dev
 
-Example:
 
