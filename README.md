@@ -36,6 +36,7 @@ The project displays interactive food cards with hover animations and a button t
 -for tabet screens:
 <img width="1227" height="920" alt="for tablets" src="https://github.com/user-attachments/assets/999a0484-0eb7-48d0-89ac-78ae80c0729c" />
 -for small screens(phones):
+
 <img width="494" height="904" alt="for mobile" src="https://github.com/user-attachments/assets/fb63b4e6-62c6-451f-a57e-4cd2c43d6d96" />
 
 -to run the project:
