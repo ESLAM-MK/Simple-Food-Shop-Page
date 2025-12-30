@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.myBtn{
+    @apply w-36 h-6 bg-red-500 flex justify-center items-center  rounded-md cursor-pointer hover:scale-150 hover:text-white transition  duration-300 ease-in-out
+}
